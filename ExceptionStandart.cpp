@@ -16,7 +16,7 @@ int main()
     //kondisi ketika terjadi error didalam array
     catch(const std::exception& e)
     {
-        
+        cout << e.what() << endl;
     }
     
 }
