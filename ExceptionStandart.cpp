@@ -1,7 +1,8 @@
 #include <iostream>
 #include <exception>
-#include <string>
+#include <array>
 using namespace std;
+
 
 int main()
 {
