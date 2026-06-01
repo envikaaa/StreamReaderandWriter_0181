@@ -30,5 +30,6 @@ int main()
 
         // kondisi jika baris hanya berisi huruf q
         if (baris == "q")
+            break;
     }
 }
