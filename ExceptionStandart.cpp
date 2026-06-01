@@ -13,6 +13,7 @@ int main()
         //memanggil array element ke-5 yang berarti akan terjadi error
         cout << data.at(5) << endl;
     }
+    //kondisi ketika terjadi error didalam array
     catch(const std::exception& e)
     {
         
