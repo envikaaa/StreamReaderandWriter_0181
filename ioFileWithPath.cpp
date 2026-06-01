@@ -10,4 +10,5 @@ int main()
 
     // membuat input untuk menangkap nama file
     cout << "Masukkan nama file : ";
+    cin >> NamaFile;
 }
